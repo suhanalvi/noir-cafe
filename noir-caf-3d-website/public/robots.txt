@@ -1,0 +1,5 @@
+# NOIR CAFÉ — demo robots.txt (replace domain before launch)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.noircafe.com/sitemap.xml
